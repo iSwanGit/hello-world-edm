@@ -18,8 +18,8 @@
 - Twitter: https://twitter.com/souring001
 
 ## Code
-- `original.s` : Original code of PV
-- `reasoning.c` : C code created by reasoning based on the original code
+- `lyric.s` : Original code of PV
+- `lyric.c` : C code created by reasoning based on the original code
 
 ## Environment
 - GCC 8.3
